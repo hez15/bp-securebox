@@ -54,6 +54,7 @@ ps-dispatch/shared/config.lua paste this in around line 434 see image for refren
         offset = false,
         flash = false
     },
+interact sound that will be need to be added Housealarm.ogg placed in the interact-sound\client\html\sounds
 
 
 
